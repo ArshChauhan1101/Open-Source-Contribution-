@@ -11,7 +11,7 @@ def calculate(a, b, operation):
         pass
     elif operation == "multiply":
         # Add your logic here
-        pass
+        return a*b
     elif operation == "modulus":
         # Add your logic here
         pass
