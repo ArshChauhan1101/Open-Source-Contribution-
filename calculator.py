@@ -13,7 +13,7 @@ def calculate(a, b, operation):
         # Add your logic here
         return a*b
     elif operation == "modulus":
-        # Add your logic here
+        return a % b
         pass
     else:
         return "Operation not supported!"
