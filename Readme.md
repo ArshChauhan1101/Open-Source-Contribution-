@@ -9,4 +9,7 @@ This is a beginner-friendly project to learn how to contribute to an open-source
 1. Clone this repository:  
    ```bash
    git clone https://github.com/your-repo/python-calculator.git
+   
    cd python-calculator
+
+
